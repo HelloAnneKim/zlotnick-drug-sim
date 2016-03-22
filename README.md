@@ -9,4 +9,6 @@
 
 
 **Status:** Unfinished.  Added all helper code.  TODO: add modeling code"
-  
+
+`Zlotnick1999.m` fits figure 1B from Zlotnick 1999 paper, but doesn't account for the slow nucleation steps of dimer and trimer reactions.  Mysterious. 
+
