@@ -8,4 +8,5 @@
 2.  Extend Zlotnick model to include varying concentrations of drugged monomers.
 
 
-**Status:** Unfinished.  
+**Status:** Unfinished.  Added all helper code.  TODO: add modeling code"
+  
