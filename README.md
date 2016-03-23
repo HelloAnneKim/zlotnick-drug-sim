@@ -12,3 +12,9 @@
 
 `Zlotnick1999.m` fits figure 1B from Zlotnick 1999 paper, but doesn't account for the slow nucleation steps of dimer and trimer reactions.  Mysterious. 
 
+`Zlotnick1999_KLm` reveals that following prescribed slower nucleation at dimerization but faster elongation later does not actually reproduce Zlotnick figure 1B.
+
+`Zlotnick1999_Concentration_Dependence.m` redeems the model by reasonably reproducing figure 4D, while following the model of a slower nucleation and faster elongation.
+
+
+
