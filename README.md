@@ -8,7 +8,7 @@
 2.  Extend Zlotnick model to include varying concentrations of drugged monomers.
 
 
-**Status:** Unfinished.  Added all helper code.  TODO: add modeling code"
+**Status:** Unfinished.  Added all helper code.  TODO: update drugging code"
 
 `Zlotnick1999.m` fits figure 1B from Zlotnick 1999 paper, but doesn't account for the slow nucleation steps of dimer and trimer reactions.  Mysterious. 
 
